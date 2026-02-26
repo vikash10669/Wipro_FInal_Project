@@ -1,0 +1,21 @@
+store_id,store_code,store_name,store_type,location_id,manager_name,phone_number,email,open_date,close_date,is_active,square_footage,created_at,updated_at
+1,STR0001,Hayesmouth Market,OUTLET,19,Kevin Patterson,001-490-591-3341,andreamoore@hayes-wheeler.com,2022-08-26,,TRUE,39837,2022-08-26 00:00:00,2022-08-26 00:00:00
+2,STR0002,East Keithport Mall,FLAGSHIP,13,Jordan Mcdaniel,493-661-8324x210,scott74@powell.info,2021-12-13,,TRUE,45336,2021-12-13 00:00:00,2021-12-13 00:00:00
+3,STR0003,New Billchester Centre,FLAGSHIP,15,Lindsey Johnson,999.604.9027,wendygraham@costa-harrison.biz,2022-05-03,,TRUE,17256,2022-05-03 00:00:00,2022-05-03 00:00:00
+4,STR0004,Manuelville Centre,KIOSK,7,Erin Steele,968-807-1545x1680,lopezmichael@garrett-wolf.com,2020-02-18,,TRUE,43660,2020-02-18 00:00:00,2020-02-18 00:00:00
+5,STR0005,Andreaport Centre,OUTLET,24,Michael Martinez,+1-393-424-8086x1317,scantu@thornton.info,2018-11-30,,TRUE,15730,2018-11-30 00:00:00,2018-11-30 00:00:00
+6,STR0006,South Andrea Mall,STANDARD,43,Thomas Romero,(614)965-8404,seanwashington@arnold-daniels.info,2019-07-01,,TRUE,37005,2019-07-01 00:00:00,2019-07-01 00:00:00
+7,STR0007,Mollybury Plaza,KIOSK,47,Cynthia Rowe,7573662702,dgarcia@bowen.com,2019-05-17,,TRUE,26867,2019-05-17 00:00:00,2019-05-17 00:00:00
+8,STR0008,South Kimberlyview Market,STANDARD,18,Michael Santos,386-357-8091x34316,tjackson@williams.com,2021-08-03,,TRUE,46866,2021-08-03 00:00:00,2021-08-03 00:00:00
+9,STR0009,Nicholasberg Mall,STANDARD,21,Jason Maldonado,(422)519-6937,dlittle@estrada-nolan.info,2022-09-23,,TRUE,4103,2022-09-23 00:00:00,2022-09-23 00:00:00
+10,STR0010,Ericaburgh Centre,FLAGSHIP,21,Tony Huerta,664-674-3671x3695,spencedominique@smith-grimes.com,2020-04-01,,TRUE,15826,2020-04-01 00:00:00,2020-04-01 00:00:00
+11,STR0011,Wallport Centre,STANDARD,37,Crystal Pham,239.742.1047,christopherphillips@perry.com,2022-11-30,,TRUE,44954,2022-11-30 00:00:00,2022-11-30 00:00:00
+12,STR0012,Mariaview Square,STANDARD,32,Terry Coffey,651-371-2368x5160,vrichardson@baker.com,2020-03-21,,TRUE,19359,2020-03-21 00:00:00,2020-03-21 00:00:00
+13,STR0013,Lake Jesustown Market,OUTLET,9,Terri Murphy,+1-331-374-6120x047,paigetaylor@watson-avery.net,2019-05-21,,TRUE,40311,2019-05-21 00:00:00,2019-05-21 00:00:00
+14,STR0014,Matthewsberg Square,OUTLET,28,Mary Bass,+1-764-205-3773x515,hhill@davis-lewis.org,2021-04-10,,TRUE,16373,2021-04-10 00:00:00,2021-04-10 00:00:00
+15,STR0015,North Kristinbury Square,FLAGSHIP,9,Rachel Harris DVM,+1-639-433-5290,amberlindsey@guerrero.com,2020-11-09,,TRUE,5087,2020-11-09 00:00:00,2020-11-09 00:00:00
+16,STR0016,West Kristybury Plaza,KIOSK,8,Alexis Baker,(368)911-7758,soniawilliams@boyd.com,2018-11-10,,TRUE,41086,2018-11-10 00:00:00,2018-11-10 00:00:00
+17,STR0017,Boonechester Square,KIOSK,5,Katherine Browning,715-892-1249,shawn96@mcguire.net,2020-02-28,,TRUE,36676,2020-02-28 00:00:00,2020-02-28 00:00:00
+18,STR0018,South Shannon Mall,FLAGSHIP,17,Gerald Chavez,(315)765-4527x11116,angelawillis@hoffman.biz,2021-02-07,,TRUE,46676,2021-02-07 00:00:00,2021-02-07 00:00:00
+19,STR0019,West Carolinestad Centre,OUTLET,35,Jordan Moore,231.658.5149x3689,whitejacqueline@dorsey-bell.com,2022-03-18,,TRUE,9310,2022-03-18 00:00:00,2022-03-18 00:00:00
+20,STR0020,New Diane Plaza,KIOSK,19,Patrick Bonilla,683-766-7525,wareeric@williams.biz,2020-06-09,,TRUE,2212,2020-06-09 00:00:00,2020-06-09 00:00:00

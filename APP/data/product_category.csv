@@ -1,0 +1,14 @@
+category_id,category_code,category_name,parent_category_id,description,is_active,created_at
+1,ELECT,Electronics,,Electronics category,TRUE,2020-01-01 00:00:00
+2,CLOTH,Clothing,,Clothing category,TRUE,2020-01-01 00:00:00
+3,FOOD,Food & Beverages,,Food & Beverages category,TRUE,2020-01-01 00:00:00
+4,HOME,Home & Garden,,Home & Garden category,TRUE,2020-01-01 00:00:00
+5,SPORT,Sports & Outdoors,,Sports & Outdoors category,TRUE,2020-01-01 00:00:00
+6,PHONE,Smartphones,1,Smartphones category,TRUE,2020-01-01 00:00:00
+7,LAPT,Laptops,1,Laptops category,TRUE,2020-01-01 00:00:00
+8,MENS,Men's Clothing,2,Men's Clothing category,TRUE,2020-01-01 00:00:00
+9,WOMN,Women's Clothing,2,Women's Clothing category,TRUE,2020-01-01 00:00:00
+10,GROC,Groceries,3,Groceries category,TRUE,2020-01-01 00:00:00
+11,BVGS,Beverages,3,Beverages category,TRUE,2020-01-01 00:00:00
+12,FURN,Furniture,4,Furniture category,TRUE,2020-01-01 00:00:00
+13,FITT,Fitness Equipment,5,Fitness Equipment category,TRUE,2020-01-01 00:00:00
